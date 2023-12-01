@@ -2,7 +2,7 @@
             
 <h2 align="center">A software analyst and developer from Colombia
 
-<a align="center" href='https://www.linkedin.com/in/juan-felipe-quintero-9461a8245/'><img align='center' alt="linkedin"
+<a align="center" href='https://www.linkedin.com/in/jfelipeq14/'><img align='center' alt="linkedin"
             src="assets/linkedin.svg" height='18px' /></a>
 
 </h2>
