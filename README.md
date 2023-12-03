@@ -11,7 +11,13 @@ Técnico Laboral como Asistente en Desarrollo de Software con 6 meses de experie
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfelipeq14&show_icons=true&theme=highcontrast)
+![jfelipeq14's Stats](https://github-readme-stats.vercel.app/api?username=jfelipeq14&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jfelipeq14&theme=dark)](https://git.io/streak-stats)
+
+
+![jfelipeq14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipeq14&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <hr>
 
