@@ -3,7 +3,7 @@
 <h2 align="center">A software analyst and developer from Colombia </h2>
 <h3 align="center">
 <a align="center" href='https://www.linkedin.com/in/jfelipeq14/' target="_blank"><img align='center' alt="linkedin" src="assets/linkedin.svg" height='18px' /></a>
-<a align="center" href='https://www.youtube.com/@jfelipeq14' target="_blank"><img align='center' alt="youtube" src="assets/youtube.svg" height='18px' /></a>
+<a align="center" href='https://www.youtube.com/@goleadordev' target="_blank"><img align='center' alt="youtube" src="assets/youtube.svg" height='18px' /></a>
 </h3>
 
 
