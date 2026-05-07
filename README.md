@@ -12,4 +12,5 @@ Full Stack Web Developer Junior con 19 meses de experiencia en el ciclo de vida 
 
 <hr>
 
-![jfelipeq14's Stats](https://github-readme-stats.vercel.app/api?username=jfelipeq14&theme=dark&show_icons=true&hide_border=false&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=jfelipeq14&theme=dark)](https://git.io/streak-stats)
+![jfelipeq14's Stats](https://github-readme-stats.vercel.app/api?username=jfelipeq14&theme=dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jfelipeq14&theme=dark)](https://git.io/streak-stats)
