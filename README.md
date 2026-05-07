@@ -12,6 +12,6 @@ Full Stack Web Developer Junior con 19 meses de experiencia en el ciclo de vida 
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jfelipeq14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&card_height=150&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jfelipeq14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=150&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jfelipeq14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=150&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jfelipeq14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&card_height=150&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jfelipeq14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=150&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
